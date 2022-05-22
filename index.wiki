@@ -1,0 +1,8 @@
+= THE FACILITY MAIN INDEX =
+
+== Lore Tidbits ==
+This is where the world is explained. Use the explanation in these files to generate the adventures.
+
+[[lore/building.wiki|The Building]] - Where players hear about missions and are sent. The first session should probably be about navigating this building.
+
+== Adventures ==
