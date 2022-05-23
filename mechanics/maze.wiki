@@ -1,0 +1,15 @@
+= Running Mazes =
+
+== Deck Method ==
+
+In game, you can use a deck of cards to represent the maze, instead of having the maze pre-drawn. Alternatively, you can use the deck method before the session and draw what happens.
+
+The way cards will represent the maze is following rules, which is what the prep will define. Some example rules could be as follows:
+* Cards with a drawing will have information for the players
+* Aces will have monsters
+* diamonds have a 2-intersection
+* odd-numbered spades have a 3-way intersection
+* clovers are the end of a path - odds, dead ends, evens, a cicle
+* Other cards have nothing special happening
+
+Cicles should be used only in advance, when you can redraw things to make sense for the players. One card, or the last of a type of rule, should be deemed the exit of the maze.
