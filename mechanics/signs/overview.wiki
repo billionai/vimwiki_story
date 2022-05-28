@@ -1,0 +1,20 @@
+= Overview =
+
+This character creation system, that I decided to call Signs, is based on the Zodiac system, but stripped down so that people don't have to learn what each of the 12 signs mean in each of the 10 possible locations that it could be in. 
+
+Instead, you feel 4 Elemental Pulls - [[fire]], [[water]], [[earth]] and [[air]] - from 3 different sources, [[others|from others]], [[within|from yourself]] and [[self|to others]].
+
+== The Elements ==
+
+This is meant as a quick lookup, not a definitive guide
+
+* [[Fire]]: This Pull usually manifests itself to intense and short durations. A burning rage or the warmth of a fiercly loyal loving parent are common descriptors of this Pull.
+* [[Water]]: This Pull normally shows up as a patient and intuitive person. People who feel this Pull tend to know when their action is needed, and when it is not appreciated, which makes for great friends and terrible social rivals.
+* [[Earth]]: Reliable and strong willed, they say that people with this Pull were the greatest explorers of the past, as once they _knew_ they could do something, they would know give up until it was done.
+* [[Air]]: People feeling the Pull of the Air are usually very analytical and creative. Choosing an air gap from their emotions, Air pulled people tend to be great scientists and strategists.
+
+== The Sources ==
+
+* [[within|From Yourself]]: This source dictates how you usually plan to achieve your goals and what internal challenges you may find along the way. As an example, a fire pulled person may want to face the problems head on to achieve it's goals, but they might be too eager to do so - failing to adequately prepare before the confrontation. This is called the Pull from Within
+* [[self|To Others]]: This is the lens through which your inner pull shows up to others. As an example, someone with the Water pul from Within arguing with a cheating partner; if they feel a Fire pull from the Self, they might spit curses and attempt to hurt the other's feelings directly, while someone with a Self Earth pull might say how hurt they feel from the break of trust and loyalty expected, attempting to hurt the other's feelings by proxy.
+* [[others|From Others]]: This is the Lens through which you interpret other people's actions. Someone who feels a Water pull from Others might see a lie as an attempt to hurt their feelings, while an Air pulled might see it as a calculated move to achieve some goal.
