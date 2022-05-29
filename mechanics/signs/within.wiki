@@ -1,13 +1,43 @@
 = Pull from Within =
 [[overview.wiki|back to overview]]
 
-The elemental pull felt from Within defines much of a person's personality. It informs the main strenghs and points of improvement for the person.
+The elemental pull felt from Within defines much of a person's personality. It informs the main strenghs and points of improvement for the person. It also influences the way one plans to achieve any goals that the person has, and the blindspots that such plans may have. It can also define the final goals of a person, but introspection can, and often does, change those goals over time.
+
+== Interactions ==
 
 Because of the cyclic nature of the pulls, the Pull interacts with the 2 other pulls by strengthening one and weakening another.
 
 The pull from within strengthens the [[others.wiki|Pull from Others]], because one tends to assume similar motives for others as one would have.
 
 Conversely, this pull weakens the [[self.wiki|Pull unto Other]], as it works as a secondary motive for interactions.
+
+== Examples ==
+
+A few examples of characters created with different pulls from within follow. These are by no means prescriptive, just an example to help creativity flow.
+
+1. [[fire.wiki|Fire pull from within]]: Someone who feels the fire pull from within would have the following tropes:
+    1. Strengh: They have great energy reserves and no qualms about burning through it to reach their goals.
+    2. Weakness: The call for action is often so strong in the person that they may not plan and just do it.
+    3. Internal struggle: The person needs to learn to conserve energy when a situation calls for it.
+    4. Goal: Common goals for fire pulled people are being famous musicians or sportsmen.
+
+2. [[water.wiki|Water pulled from within]]: Someone who feels the water pull from within would have the following tropes:
+    1. Strength: As someone with great empathy, people feeling this pull tend to have great intuition on how others feel about them.
+    2. Weakness: The patience that cmes from this pull may turn into procrastination, leading to loss of oportunities.
+    3. Internal struggle: The person may need to learn that sometimes one may need to chase an oportunity, instead of waiting for one to present itself.
+    4. Goal: Common goals are having a great family in an idilic location.
+
+3. [[earth.wiki|Earth pulled from within]]: Someone who feels the earth pull from within would have the following tropes:
+    1. Strengh: People feeling this pull are very loyal to friends and family.
+    2. Weakness: They may be too stubborn, continuing to believe in something - or someone - way too long after being betrayed.
+    3. Internal struggle: this set of characteristic give rise to 2 easy conflicts: Either stubbornly refusing to see a former friend as an enemy, or learning that changes of mind are sometimes good.
+    4. Goal: Common goals usually involve being in a position of power which inspires loyalty, such as a high ranking officer or politician.
+
+4. [[air.wiki|Air pulled from within]]: Someone who feels the earth pull from within would have the following tropes:
+    1. Strengh: people with this pull are very creative, always finding a good angle of attack.
+    2. Weakness: Being very analytical, every creative solution must be analyzed a lot before being implemented.
+    3. Internal struggle: This person may need to learn to improvise, there isn't always time to deal with all outcomes.
+    4. Goal: Common goals often involve doing some sort of research or creative problem solving, such as being a scientists.
 
 === Behind the curtain ===
 
