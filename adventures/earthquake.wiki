@@ -1,0 +1,96 @@
+= 1960s Chile Earthquake =
+
+== Act 1 ==
+
+Adventure starts with the players being brought in to talk to Wright. Wright has been acting weird, saying that the building is done when it clearly isn't. Some people the players can talk to, to understand the idea of the build, are:
+
+1. Chief Engineer: He is very angry at Wright, for making a mess of the building. While it is stable enough for now, the area is seismically active, making this building very problematic.
+  1. Bricklayers: Also pissed, this time because of how Wright treated them. Screaming that they were incompetent by building the only normal part of the building.
+2. Chief Cientist: Is also pissed at Wright, for another reason. The reason Wright was hired in the first place was to make the building into a parabola, to use it as a telescope, and this is not what is happening. The building is just a mess of triangles;
+
+No matter to whom the players talk to, they must eventually go talk to Wright to progress things. He can be found inside the partially constructed building. As the players enter, describe a M.C. Escher-like construction, pillars stopping mid-air, stairs going sideways or upside-down (if there are any engineers, they can see load-bearing beams that don't connect to anything). It feels like it should be falling in on itself any time.
+
+Wright himself seems perfectly fine, with the exception of saying that the construction time is up, he didn't manage to fix the basement, but at least the rest of the building will be stable. He says he must get his plans from his office in the basement, but the players are welcome to walk with him if they want. He walks towards the basement.
+Possible topics of conversation include:
+
+* The problem with the basement is that it isn't structurally sound. The bricklayers didn't follow the actual plans, just took a glance and created a mess of corridors!
+* The original contract was stupid. Based on flawed logic. So why not do my own little experiment? It should go into effect today, that's why the time is up.
+
+Once the conversation ends, either by hitting all talk points or the players wanting to move on. Wright enters his office, and says that players should move back out, the experiment is about to begin. The players may decide to barge in anyway, which will lead to them being stuck with Wright after the earthquake. Otherwise, the earthquake starts as they are halfway to the exit.
+
+== Act 2 ==
+
+Also known as the "escape the maze" section. As the earthquake hits, the players feel their legs turn to jelly, and start to hear rumbling indicative of the walls being demolished.
+
+Following Maze Mechanics, lead the players to exit the maze. Players should hopefuly run into all information bits and Wright. If a pre-generated maze is used instead, there should be 4 different paths, one for each card suit, and following the paths would go K, J, A (weird, danger, info), first presenting the problem, then seeing if the players are smart enough to deal with it, and rewards them for exploring. The one exception is Space Shenanigans, that will go A, J, K.
+
+There are 4 types of rules:
+
+1. Information: When an Ace card is pulled, one of the information rooms is found:
+    1. (Clubs) Wright's office - gravity shenaniganned: players find Frank uncounscious, having been hit in the head. A first ait roll can stabilize him, and a hard success can wake him up. 
+       If he awakens, he will be less cryptic about the experiment, saying that it was meant to focus and augment any 4th dimensional tremors, possibly bringing them into our realm. This is the origin on the earthquake that has just happened. But because there was a problem in the basement, before Wright arrived, the building will not be stable enough to do this again. God knows what is left standing.
+       In the office, players can find an unlocked safe nearby the body of the architect, and papers scattered in the floor nearby. The papers will explain the idea of Wright's experiments. It was meant to focus and augment tremors in the 4th dimension, with the hopes of generating energy from it. It will give no information on what happened at the basement.
+    2. (Spades) Blueprints room - perspective shenaniganned: Players are able to look at the blueprints for The Building, which can be analyzed with Science (Engineering) or a hard Library use roll. Understanding them, the players will notice that the whole building is comprised of 4 regular tetrahedrons. 
+       Anyone who understands this blueprint can notice that this should only work in 4 dimensions, though only mathematicians would know that this is a simplex.
+       Reaching this conclusion gives you a 1/1d4 sanity loss.
+       Anyway, this unique choice gives the building a greater resilience, making it possibly survive even the strongest tremors.
+       The only problem is that the internal geometry will make no sense in three dimensions. Conversely, if the geometry makes sense, it will not enjoy this greater protection, hence why Wright said there was a problem in the basement.
+    3. (Diamonds) Contract room - time shenaniganned: Players can look over the original plans of the building, understanding the original intent. 
+       Original correspondence between US President Eisenhower and F. L. Wright. They talk about a huge telescope, the size of a building.
+       The bottom line is Eisenhower asking for the telescope to be a liveable space, this is why Wright was called in the first place.
+       They also talk about the Hollow Earth Theory, and how this telescope would be strong enough to see the other side of the world, and thus it must be built somewhere where in the southern hemisphere, where it would be able to take pictures of Russia.
+    4. (Hearts) Ritual room - Space Shenaniganned: In here players can see how Frank got the knowledge to amplify 4th dimensional tremors. 
+       There are many books in the room. Most of them show some form of the diagram of the layers of earth: crust, magma and core. There is one book open on the table, on a page that details tunnels around the planet. If the players try to read, the books seems go in circles, mentioning mole-people going everywhere following the whims of C'thalpa. Players that read this book take 1d3/1d8 sanity damage.
+    
+2. Weirdness: When a K card is pulled, a weird thing is encountered. This is a sanity damaging encounter
+    1. (Diamonds) Time Shenanigans.
+       Players enter a room with 2 other doors, one to the right another right in front. As the first player enters, another person just like the first one is entering. It would seem like there was a mirror in the middle of the room, were it not for the fact that the other players are not mirrored.
+       If the player raises the left hand, the "mirror" will also raise the left hand. Same for the right. After a few seconds, the "image" starts laughing, and says that its more fun being on this side, and points to the third door, saying the player should enter it... he doesnt want to know what happens if it doesn't happen. After this, the player takes control of the "mirror image" and they leave the room.
+       Everyone who was there takes 1d8 sanity damage.
+    2. (Clubs) Gravity Shenanigans.
+       Players come accross a wall partially demolished by the earthquake, near the corner. it seems that all the debris have fallen to the player's side creating a neat ramp for them to move on. If players decide to move through it, as they reach the top and see that the floor is about 1 foot lower, so no problem jumping down, but coming back would be difficult.
+       If the player decides to jump, as soon as he loses contact with the rubble, he falls sideways, about 1 feet, and if they stand up, their head is at the level of the hole in the wall, and the ones left in the other room seem to be standing in the wall.
+       This room causes a 1/1d4 sanity loss for the ones who watch; 1d3/1d8 for the one who falls. 
+       From this point on, this branch of the maze is on the wall.
+    3. (Hearts) Space shenanigans. _*Exit condition!*_
+       As the players enter the corridor, they notice sun light comming from small cracks near the roof. Looking forward they see some sections that are dark, probably without cracks, then one with shadows slowly moving through the floor, and further forward, it gets dark again.
+       Moving along the corridor, they notice that the cracks dont actually stop, it just becomes dark, maybe with dirt covering the area? Then arriving at the next part with light, they feel the air becoming noticeably colder, and the slowly moving things are snowflakes.
+       Continuing on, they move to another dark area and back to the light they feel the heat rising, reaching 40C, and hear an unknown language (African). Finally, they move to an area of darkness but still with cracks, looking at the sky they can see stars! It must be night! The corridor ends in an upwards staircase to the exit.
+       For every different area that they see, they can attempt a Science (Mathematics) or a hard Natural World roll to understand what is going on. If any player calls out loud what is going on, everyone automatically succeeds.
+       After the end of the corridor, call for a sanity roll. If the players never understood, they lose 0/1 sanity due to climate weirdness, if they did understand they lose 1/1d4 sanity.
+    4. (Spades) Perspective shenanigans. 
+       Players enter a room that seems more finished than expected. The painting is flawless and there seems to be a suggestion of furniture, or at least where it would be ideally placed. The furniture is just a feeling though, as they move they figure they must've imagined it.
+       As they move, the painting on the walls doesn't seem quite as finished as it first looked, it is a bit rough. As they move they notice more and more the problems, like spotches of ink in the skirting boards. Well, looking at it again, even the walls can show where the brush was passed, it's not quite finished.
+       and it wasn't even consistent, as they move on, they notice that the walls aren't even painted. (If players look back at this point, they will see that the walls back are not painted, roll sanity loss of 1/1d3).
+       Actually, walls further up, the walls aren't plastered yet! Wonder why the walls were painted up ahead if walls back here aren't plastered. (If players look back, roll loss of 1d2/1d4).
+       Finally, the walls haven't even been built at the end of the room! it is most strange that things were done in such a pipeline style, instead of regularly building things. This is the last chance players have of looking back and having forewarning of the danger up ahead, rolling 1d3/1d6 sanity loss.
+
+3. Danger: When a J card is pulled, a dangerous thing happens. This is an HP-damaging encounter.
+    1. (Diamonds) Time stuff. 
+       As they follow the corridor, a part of the path seems to be blocked by a pile of rubble from the ceiling, but they can see a path beyond it. As the players attempt to clear a path, some of the larger rocks - as big as a fist - will fall into the deep hole beyond the blockage, though mid-fall they will seem to disappear.
+       Looking down into the pit, they will see a continuation of the corridor they were walking on and a wall of bare rock filled with spaces to hold. It is easy to climb down or up, requiring no rolls. Nothing happens as they move forward in the corridor.
+       As they backtrack through this corridor, they will see the top of the corridor blocked by rubble once again. However, as they look, rocks starts rolling down and fall. The exact same rocks appear on top and halfway down, and hit any players that stand at the bottom of the space.
+       As soon as the last player finishes going down, small pebbles start hitting the ground, and if they look up, they can see the bigger rocks falling too.
+    2. (Clubs) Gravity stuff. 
+       After a few rooms of walking in the wall, they move through a door and right after they go through the door, once again gravity is shifted, this time towards the ceiling. Characters unaware of this must succeed a hard Jump roll, characters aware can succeed on a regular Jump roll.
+       Since they are only falling from half a floor, characters take 1d6 damage instead of 1d10. Also, the damage is halved if the roll succeeds.
+       A big fall happens.
+    4. (Spades) Perspective stuff. 
+       Moving on, the floor from the room finally shows signs of been unfinished. The flooring has obviously not been put yet, it is just concrete.
+       As they keep walking, they hit on a bare dirt floor, the concrete must have not been put here. All the talk of the building being finished seems weird now. The floor becomes more and more spotty as they walk, with ever increasing holes on the way.
+       The first on the marching order seems to be swallowed by the ground, as they uncover a hole that was filled before construction began. roll jump to see damage for the first person. Since it is soft ground, the damage is 1d6-1, halved on a success. If the hole is seen before someone falls in, they can slowly go in safely.
+
+== Act 3 ==
+
+As the players leaves, the rest of the construction crew can be seen running around, searching for them, the last survivors. The reactions will depend on if the players found and rescued Wright.
+
+Found:
+* If conscious, Wright will say that his experiment was a partial success! He will ask for a new office, on top of the pyramid, since his is forever lost to the basement.
+* If uncounscious, the crew will rush to help hauling him to safety.
+
+Not Found:
+* The crew will say that they must search for Wright, which will hopefully be stopped by the players.
+
+Regardless, the crew will also help the players to a medical tent that was setup in a rush. As they exit the building under construction, they might notice that the building seems more finished than before. Nothing seems out of place anymore
+
+Exiting the building, they will see that the pyramid is no longer on its top. It seems to have fallen to the side, but now seems perfectly stable, if a lot smaller than before. On the medical tent, there is some talk of leaving the construction site for good. The purpose will never be achieved anymore, now that it is on the side.
