@@ -18,3 +18,35 @@ This is meant as a quick lookup, not a definitive guide
 * [[within.wiki|From Yourself]]: This source dictates how you usually plan to achieve your goals and what internal challenges you may find along the way. As an example, a fire pulled person may want to face the problems head on to achieve it's goals, but they might be too eager to do so - failing to adequately prepare before the confrontation. This is called the Pull from Within
 * [[outward.wiki|Unto Others]]: This is the lens through which your inner pull shows up to others. As an example, someone with the Water pul from Within arguing with a cheating partner; if they feel a Fire pull from the Self, they might spit curses and attempt to hurt the other's feelings directly, while someone with a Self Earth pull might say how hurt they feel from the break of trust and loyalty expected, attempting to hurt the other's feelings by proxy.
 * [[others.wiki|From Others]]: This is the Lens through which you interpret other people's actions. Someone who feels a Water pull from Others might see a lie as an attempt to hurt their feelings, while an Air pulled might see it as a calculated move to achieve some goal.
+
+== Creating characters ==
+
+To use this character creation method, I starting with character motivation, using the pull from within, and tweaking it by using the "unto others" and "from others". Then, apply the interactions for all pulls and ropleplay and create backstories based on the result.
+
+As an example, I'll recreate a character I've played once, Hodr Battleborn:
+
+Hodr was a dwarvish wizard, who vowed to protect his pet parrot and eventually undo the polimorph spell cast on him. 
+
+1. Start by identifying the base personality. 
+   The main drive of the character was loyalty. Firstly to his family when learning to fight and his place, then to his parrot, vowing to learn advanced magic to save his life. 
+   The Pull from Within is Earth.
+2. Tweaking with a positive interaction. 
+   By choosing to learn the magics himself, instead of trusting others to do it, he displays some level of of searching for knowledge. 
+   The Pull Unto Others is Air
+3. Tweaking with a negative interaction. 
+   When studying, Hodr would get very attached to routines, and throw himself into new topics without analyzing how he could learn them better.
+   The Pull From Others is Earth.
+4. Apply all interactions and define the 3 major personality traits:
+    1. Within: Hodr is a very loyal person, whose goals are usually focused on helping and saving others. He'll try to achieve these goals by learning how to do it, and he is often held back by his need to follow routines and traditions
+    2. Unto Others: Hodr is always attempting to reason with others, using facts and numbers to convince others. He is likely to argue for hours on end with others, either until he convinces them, they give up, or he is forced to stop, often to his own detriment.
+    3. From Others: Hodr always assumes that other people's actions are based on loyalty or tradition, often starting interactions with trust. He will believe others until undeniable proof of betrayal or until he has good reason to believe that it is beneficial (air influence).
+
+With all this, we can write a short but complete backstory and create roleplaying guides:
+
+Hodr, part of a very traditional and wealthy family, was training to carry their name to glory as another soldier, when he heard the cry of a parrot: "Help, I've been polimorphed into a parrot", and decided to pledge himself to help it. He informed his family of his decision to study transmutation, rather than fighting techniques.
+
+In magic school, he had a lot of trouble learning, as his hands-on learning style was hard to apply to transmutation magic, which needs much theory behind it. He paid for tutors and testing supplies. Eventually, once study money ran out, he started reviewing his study methods and learn better, being able to perfectly recall everything he read, though not necessarily understand.
+
+His plans turned into reading as much as possible in the library, searching for something that would give an edge to his study for a way to reverse a True Polomorph spell, when the scroll he was about to read was stolen, at which point his adventure began.
+
+As for roleplaying, Hodr often comes up as intelligent and bit condescending, who loves to hear his own voice and mansplain. He is often trusting of people he just met, and needs some money to pay for his life style (and study bills).
