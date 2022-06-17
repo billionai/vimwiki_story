@@ -28,17 +28,21 @@ The examples given here assume a child, or someone who has done almost no intros
 
 === Positive ===
 
-1. Fire: The person may have larger energy reserves, or may have smaller recharging times. This will normally manifest itself as an imabalnce in recharge and action, with more action that recharge time.
-2. Water: The person has some more awareness of when would be best to hold back through inaction. It might easier to delay an attack until enough preparation is done. Once action starts, the person is back to burning itself at the usual rhythm.
-3. Earth: instead of the usual Full-on action -> Rest till full -> Full-on action, the person may find it easier to stop in the middle of the rest period and act to protect someone to whom they are loyal.
-4. Air: The person is more likely to take more into account when deciding if the ideal should be broken. It may be easier to think, for instance, that killing one bad person will save many innocent ones - breaking an ideal "no killing" rule of the example person - though there is still need to argue out why other solutions are off the table.
+This is the effect that another pull would have on the currently considered pull:
+
+1. [[fire.wiki|Fire]]: The person may have larger energy reserves, or may have smaller recharging times. This will normally manifest itself as an imabalnce in recharge and action, with more action that recharge time.
+2. [[water.wiki|Water]]: The person has some more awareness of when would be best to hold back through inaction. It might easier to delay an attack until enough preparation is done. Once action starts, the person is back to burning itself at the usual rhythm.
+3. [[earth.wiki|Earth]]: instead of the usual Full-on action -> Rest till full -> Full-on action, the person may find it easier to stop in the middle of the rest period and act to protect someone to whom they are loyal.
+4. [[air.wiki|Air]]: The person is more likely to take more into account when deciding if the ideal should be broken. It may be easier to think, for instance, that killing one bad person will save many innocent ones - breaking an ideal "no killing" rule of the example person - though there is still need to argue out why other solutions are off the table.
 
 === Negative === 
 
-1. Fire: The person will be more likely to act on impulses once the energy is fully charged, with no regards to planning or consequences.
-2. Water: This is a "blood boiling" combination. The person will be quick to act on any perceived slight, possibly interrupting the recharge cycle, and maybe failing to finish their revenge before they need more recharge. a pretty detrimental combination.
-3. Earth: The person is much less likely to compromise, if they have decided that a course of action is _possible_, regardless of how hard it would be to actually achieve this.
-4. Air: once a situation seems to _not_ be winnable, the Fire pulled person may break the cycle of action->rest->action by stopping his action short and giving up. this is very different from the base action of the Fire pulled, but it doesn't manifest often, it must bu truly impossible to win.
+This is the effect that another pull would have on the currently considered pull:
+
+1. [[fire.wiki|Fire]]: The person will be more likely to act on impulses once the energy is fully charged, with no regards to planning or consequences.
+2. [[water.wiki|Water]]: This is a "blood boiling" combination. The person will be quick to act on any perceived slight, possibly interrupting the recharge cycle, and maybe failing to finish their revenge before they need more recharge. a pretty detrimental combination.
+3. [[earth.wiki|Earth]]: The person is much less likely to compromise, if they have decided that a course of action is _possible_, regardless of how hard it would be to actually achieve this.
+4. [[air.wiki|Air]]: once a situation seems to _not_ be winnable, the Fire pulled person may break the cycle of action->rest->action by stopping his action short and giving up. this is very different from the base action of the Fire pulled, but it doesn't manifest often, it must bu truly impossible to win.
 
 == Examples ==
 
