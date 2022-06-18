@@ -1,0 +1,275 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="1280.000000pt" height="1280.000000pt"
+ preserveAspectRatio="xMidYMid meet">
+  <metadata>
+    Created by potrace 1.15, written by Peter Selinger 2001-2017
+  </metadata>
+  <defs>
+   
+   <marker id="arrowHead" refX="3" refY="4" markerWidth="6" markerHeight="8">
+     <polygon points="0 0, 3 8, 6 0" />
+   </marker>
+
+  </defs>
+  <g id="start">
+    <rect x="725" y="0" width="80" height="80" transform="rotate(45 725 0)" stroke="black" stroke-width="3" fill="yellow"/>
+    <text x="690" y="60"> Lost Ship </text>
+
+    <polyline points="725 110, 725 125,   30 125,   30 170" marker-end="url(#arrowHead)" fill="none" stroke-width="5" stroke="black"/>
+    <polyline points="725 110, 725 125,  280 125,  280 170" marker-end="url(#arrowHead)" fill="none" stroke-width="5" stroke="black"/>
+    <polyline points="725 110, 725 125,  530 125,  530 170" marker-end="url(#arrowHead)" fill="none" stroke-width="5" stroke="black"/>
+    <polyline points="725 110, 725 125,  930 125,  930 170" marker-end="url(#arrowHead)" fill="none" stroke-width="5" stroke="black"/>
+    <polyline points="725 110, 725 125, 1180 125, 1180 170" marker-end="url(#arrowHead)" fill="none" stroke-width="5" stroke="black"/>
+    <polyline points="725 110, 725 125, 1430 125, 1430 170" marker-end="url(#arrowHead)" fill="none" stroke-width="5" stroke="black"/>
+  </g>
+
+
+  <g id="King's fight" transform="translate(5 200)">
+    <rect x="0" y="0" rx="5" ry="5" width="200" height="600" fill="white" stroke-width="5" stroke="black"/>
+    <text x="50" y="-20">King's army</text>
+
+    <line x1="100" y1="120" x2="100" y2="210" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="320" x2="100" y2="410" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="520" x2="100" y2="800" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+
+    <g id="part 1" transform="translate(100 70)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-45" y="5">Obtain land</text>
+
+      <g id="endSect1" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+
+    <g id="part 2" transform="translate(100 270)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-47" y="5">Learn secret</text>
+
+      <g id="endSect2" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+
+    <g id="part 3" transform="translate(100 470)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-40" y="5">Beat leader</text>
+      <g id="endSect3" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+  </g>
+
+  <g id="Rebels" transform="translate(250 200)">
+    <rect x="0" y="0" rx="5" ry="5" width="200" height="600" fill="white" stroke-width="5" stroke="black"/>
+    <text x="50" y="-20">Rebel army</text>
+
+    <line x1="100" y1="120" x2="100" y2="210" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="320" x2="100" y2="410" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="520" x2="100" y2="800" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+
+    <g id="part 1" transform="translate(100 70)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-48" y="5">Obtain Land</text>
+
+      <g id="endSect1" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+
+    <g id="part 2" transform="translate(100 270)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-47" y="5">Learn Secret</text>
+
+      <g id="endSect2" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+
+    <g id="part 3" transform="translate(100 470)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-45" y="5">Beat Leader</text>
+      <g id="endSect3" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+  </g>
+
+  <g id="Neutral" transform="translate(500 200)">
+    <rect x="0" y="0" rx="5" ry="5" width="200" height="600" fill="white" stroke-width="5" stroke="black"/>
+    <text x="50" y="-20">Neutral army</text>
+
+    <line x1="100" y1="120" x2="100" y2="210" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="320" x2="100" y2="410" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="520" x2="100" y2="800" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+
+    <g id="part 1" transform="translate(100 70)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-48" y="5">Obtain Land</text>
+
+      <g id="endSect1" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+
+    <g id="part 2" transform="translate(100 270)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-47" y="5">Learn Secret</text>
+
+      <g id="endSect2" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+
+    <g id="part 3" transform="translate(100 470)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-45" y="5">Beat Leader</text>
+      <g id="endSect3" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-50" y="-10"  fill="black">prize: . level up </text>
+          <text x="-50" y="20"  fill="black">req: 1 . magic item </text>
+      </g>
+    </g>
+  </g>
+
+  <g id="char 1" transform="translate(750 200)">
+    <rect x="0" y="0" rx="5" ry="5" width="200" height="600" fill="white" stroke-width="5" stroke="black"/>
+    <text x="0" y="-20">Character Arc: ???</text>
+
+    <line x1="100" y1="120" x2="100" y2="210" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="320" x2="100" y2="410" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="520" x2="100" y2="800" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+
+    <g id="part 1" transform="translate(100 70)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-45" y="5">First victory</text>
+
+      <g id="endSect1" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+
+    <g id="part 2" transform="translate(100 270)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-30" y="5"> Secret 1</text>
+
+      <g id="endSect2" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+
+    <g id="part 3" transform="translate(100 470)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-30" y="5">Secret 2</text>
+      <g id="endSect3" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+  </g>
+
+  <g id="char 2" transform="translate(1000 200)">
+    <rect x="0" y="0" rx="5" ry="5" width="200" height="600" fill="white" stroke-width="5" stroke="black"/>
+    <text x="0" y="-20">Character Arc: ???</text>
+
+    <line x1="100" y1="120" x2="100" y2="210" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="320" x2="100" y2="410" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="520" x2="100" y2="800" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+
+    <g id="part 1" transform="translate(100 70)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-45" y="5">First Victory</text>
+
+      <g id="endSect1" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+
+    <g id="part 2" transform="translate(100 270)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-30" y="5">Secret 1</text>
+
+      <g id="endSect2" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+
+    <g id="part 3" transform="translate(100 470)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-30" y="5">Secret 2</text>
+      <g id="endSect3" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+  </g>
+
+  <g id="char 3" transform="translate(1250 200)">
+    <rect x="0" y="0" rx="5" ry="5" width="200" height="600" fill="white" stroke-width="5" stroke="black"/>
+    <text x="0" y="-20">Character Arc: ???</text>
+
+    <line x1="100" y1="120" x2="100" y2="210" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="320" x2="100" y2="410" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+    <line x1="100" y1="520" x2="100" y2="800" stroke-width="4" stroke="black" marker-end="url(#arrowHead)"/>
+
+    <g id="part 1" transform="translate(100 70)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-45" y="5">First victory</text>
+
+      <g id="endSect1" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+
+    <g id="part 2" transform="translate(100 270)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-30" y="5">Secret 1</text>
+
+      <g id="endSect2" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+
+    <g id="part 3" transform="translate(100 470)">
+      <circle cx="0" cy="0" r="50" fill="white" stroke-width="3" stroke="black"/>
+      <text x="-30" y="5">Secret 2</text>
+      <g id="endSect3" transform="translate(0 100)">
+          <line x1="-100" y1="0" x2="100" y2="0" stroke="red" stroke-width="5"/>
+          <text x="-62" y="-10"  fill="black">prize: 1 . magic item </text>
+          <text x="-68" y="20"  fill="black">require: . level up </text>
+      </g>
+    </g>
+  </g>
+</svg>
