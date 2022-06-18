@@ -4,6 +4,7 @@ This character creation system, that I decided to call Signs, is based on the Zo
 
 Instead, you feel 4 Elemental Pulls - [[fire.wiki|fire]], [[water.wiki|water]], [[earth.wiki|earth]] and [[air.wiki|air]] - from 3 different sources, [[eyes.wiki|from the eyes]], [[mind.wiki|from your mind]] and [[self.wiki|to others]].
 
+
 == The Elements ==
 
 This is meant as a quick lookup, not a definitive guide
@@ -18,6 +19,14 @@ This is meant as a quick lookup, not a definitive guide
 * [[mind.wiki|From your mind]]: This source dictates how you usually plan to achieve your goals and what internal challenges you may find along the way. As an example, a fire pulled person may want to face the problems head on to achieve it's goals, but they might be too eager to do so - failing to adequately prepare before the confrontation. This is called the Pull from the mind.
 * [[outward.wiki|from the mouth]]: This is the lens through which your inner pull shows up to others. As an example, someone with the Water pull from the mind arguing with a cheating partner; if they feel a Fire pull from the mouth, they might spit curses and attempt to hurt the other's feelings directly, while someone with an Earth pull might say how hurt they feel from the break of trust and loyalty expected, attempting to hurt the other's feelings by proxy.
 * [[eyes.wiki|From your eyes]]: This is the Lens through which you interpret other people's actions. Someone who feels a Water pull from your eyes might see a lie as an attempt to hurt their feelings, while an Air pulled might see it as a calculated move to achieve some goal.
+
+=== Mind Map ===
+
+Just like astronomy has star maps, the Signs system has a mind map, which is a way to write and track interactions between pulls.
+
+An example is provided in this repo in the form of an SVG. This makes it easy to apply the pre-calculated elements, just move the "polygon" line to right below the "circle" line. Feel free to use your own, if you are more artistically inclined or dont like SVGs:
+
+![example of mind map](base.svg)
 
 == Creating characters ==
 
@@ -49,4 +58,6 @@ In magic school, he had a lot of trouble learning, as his hands-on learning styl
 
 His plans turned into reading as much as possible in the library, searching for something that would give an edge to his study for a way to reverse a True Polomorph spell, when the scroll he was about to read was stolen, at which point his adventure began.
 
-As for roleplaying, Hodr often comes up as intelligent and bit condescending, who loves to hear his own voice and mansplain. He is often trusting of people he just met, and needs some money to pay for his life style (and study bills).
+As for roleplaying, Hodr often comes up as intelligent and bit condescending, who loves to hear his own voice and mansplain. He is often trusting of people he just met, and needs some money to pay for his life style (and study bills). His mind map looks like this:
+
+![Hodr's mind map](hodr.svg)
