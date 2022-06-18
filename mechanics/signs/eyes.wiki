@@ -7,13 +7,13 @@ This pull is the lens through which one person views other's actions. This is th
 
 Because of the cyclic nature of the pulls, the Pull interacts with the 2 other pulls by strengthening one and weakening another.
 
-The pull from others strengthens the [[self.wiki|Pull unto Others]], as thinking that this is how people operate makes you more likely to try to influence them this way.
+The pull from the eyes strengthens the [[self.wiki|Pull from the mouth]], as thinking that this is how people operate makes you more likely to try to influence them this way.
 
-Conversely, this pull weakens the [[within.wiki|Pull from within]], as it casts doubt to your own real interests.
+Conversely, this pull weakens the [[mind.wiki|Pull from the mind]], as it casts doubt to your own real interests.
 
 == Examples ==
 
-Some examples of how elements will influence the view from others are as follows:
+Some examples of how elements will influence the pull from the eyes are as follows:
 
 1. [[fire.wiki|fire]]: Other people seem to act based on impulses. These might be positive or negative impulses - even if planned, but they never feel continuous.
 2. [[water.wiki|water]]: People seem to act out of emotion with low amounts of planning. When someone is _not_ acting, it feels like waiting for the right moment, rather than planning for something.
