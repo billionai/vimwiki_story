@@ -1,0 +1,40 @@
+= The King. = 
+
+== Basic Information ==
+
+Name: Atlas, Son of Jeovah
+
+Mind Map:
+* Mind: Fire. Moved in bursts towards his ultimate objective of total adoration by his subjects, and total respect from his enemies.
+* Mouth: Water. He seems to be a great strategist, moved by his passion and worry for his subjects.
+* Eyes: Earth. All subjects must be moved by loyalty, and those that do not obey him are surely betraying him.
+
+Dirt: Made a patch with <enemy>, to make people believe Rebels were causing the problem.
+  Change <enemy> to something relevant to player's backstories.
+
+== Backstory ==
+
+=== Known backstory ===
+
+This king was a prodigy. Even faced with great expectations, he managed to surpass them all, showing a great mind for startegy and history, and a great heart to his people. With the tragic passing of his father in a time of peace, everything seemed poised for a great golden age of the empire, but it all changed when the Adventurers brought the menace of the monsters.
+
+His desperate pleas fell into the deaf ears of [[rebels.wiki|Elmaer Rasian]], the former leader of the adventurers guild and current leader of the Rebel faction. The situation escalated without bounds until an actual civil war began, with a brawl for territory in the capital, fighting for resources and key locations.
+
+He is being inconvenienced by a neutral faction believed to be lead by [[neutral.wiki|Farat Jahlad]] - An old elf from a prestigious family - but given his prestige and the lack of proof, there is nothing that can openly be done against him. 
+
+=== Unknown backstory ===
+
+Rather than a king, Atlas is Solus, the god of the Sun. He replaced Leode, the former king, and it explains how prodigious he was. He, along with his family, were trapped in a demi-plane with strict rules to not do anything to aleviate their time, and their existance would be spared as long as they could restrain themselves, or if they show a real change, they might be released at some point. They couldn't control themselves and created a new world quickly, but if they were ever found out, they'd be killed.
+
+His real motivations were that the adventurers were getting close to a seal that must never be touched, lest the jailors be made aware of the broken laws. In a separate continent, on the other side of the world, and protected by a never ending storm. Solus has, at the time of creating the world, placed dragons at those places, but he couldn't be sure they were still there, or that they'd be enough to stop them, as everything else was not.
+
+To ensure this, seeing as empty words of danger weren't enough, Atlas made a deal with <enemy>. He has been using their help to sow chaos in his empire and paint the rebels as the culprits. If the players openly wage war on the king and storm the castle, he'll be encountering someone important from that people. The king will retreat to a hidden passage while setting that miniboss on the players. He will stop in his (huge) quarters, where he'll set up to defeat the players
+
+== Final fight ==
+
+If the players end up fighting Atlas, he will setup his quarters by removing all the precautions on his room and transform into his real form - a Young Red Dragon with 1 legendary resistance and either a legendary action or a lair action per turn. The removed precautions show many glyphs or warding along the walls. These are going to be his Lair actions. 
+
+The main use for the glyphs will be, once Atlas reaches half health, he will use a legendary action to throw a small pebble on a glyph on the outer wall, which will blow part of the structure away, revealing a space where he he can either exit from and hit the players from afar or escape, if he has less tha 10% health and is his turn.
+
+This dragon can also have innate spellcasting as a warlock, with a ranged firebolt (2d10), summon fey (lv 3), Counterspell (lv 3) and Suggestion (lv 3), and have 3 spell slots.
+He can also call some human helpers from his secret police. If the players made friends in the king's army, these are the ones who show up. They'll use stat blocks for Setessan Hoplites.
