@@ -1,0 +1,35 @@
+= The master Rebel =
+
+== Basic Information ==
+
+Name: Elmaer Rasian
+
+Mind Map:
+* Mind: Fire. Elmaer is impetuous and will not be stopped without a fight
+* Mouth: Fire. Elmaer's emotions aren't tempered, he'll burn enemies (or bridges) for the slightest perceived insult
+* Eye: Earth or Air - Either focused on the traditions that hold them back, or always thinking others are up to something
+
+Dirt: They have allied with <enemy> to deal with the civil war, as they don't want to stop exploring.
+  Change <enemy> to something relevant to player's backstories.
+
+== Backstory ==
+
+=== Known backstory ===
+
+Elmaer was a great aventurer. His many achievements include defeating a Hydra, sending multiple demons back to hell, freeing the city of Lossaf and finding great secrets lost to all humanoids, such as the original route humans took from their country to the Dwarven lands.
+
+He set his sights westward, and started mapping out the achipelagos when came an order from [[king.wiki|The King]] telling him to stop. However, he knew that the orders were not genuine, as the reason given had nothing to do with them. They did find many hidden monsters, but most were water creatures, could not walk on land, they had nothing to do with the creatures roaming the streets.
+
+He also has had trouble with a neutral faction of people, who were disrupting supply chains and lowering morale. While not sure, he has a suspicion that [[neutral.wiki|Farad Jahlad]] was behind it.
+
+=== Unknown backstory ===
+
+When mapping the archipelagos, Elmaer's ship was wrecked after an unfortunate meeting with sea monsters in Fichmer. He survived by sheer luck, and was rescued by Giants. They nursed Elmaer back to health and explained the relation between giants and humans. Elmaer, seeing the unfairness of the treatment, decided to try and amend relations, starting by explaining to the giant-killers why the old ways are no longer necessary.
+
+At the same time, relations with [[king.wiki|the king]] quickly soured, turning into an open fight before the talk to all of the Rowans, Elmaer only managed to talk to Ulfred. After some time, Ulfred came back with 2 of the 3 artifact of the family. He said those should be enough to stop the family, and indeed it was, as some giants started showing up to the fight.
+
+Elmaer never intended to use giants directly into fights, however. He wants giants to stay out of sight until the humans are accostumed to them, so they are only used to keep things safe in Headquarters or the dungeons. That is, until he becomes so desperate for losing that he will go beserk.
+
+== Final fight ==
+
+Elmaer is a battlemaster fighter, who is flanked by 2 Fire Giants. I need some extra stuff for an interesting fight
