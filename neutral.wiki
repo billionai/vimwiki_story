@@ -1,0 +1,39 @@
+= The puppetmaster =
+
+== Basic Information ==
+
+Name: Farad Jahlad
+
+Mind Map:
+* Mind: Air
+* Mouth
+* Eye: Earth
+
+Dirt: They have allied with <enemy> to help do research.
+  Change <enemy> to something relevant to player's backstories.
+
+== Backstory ==
+
+=== Known backstory ===
+
+Jahlad was a studious man. He prided himself in learning and discovering hidden secrets from the distant past. Owner of a library of historical books, he spent most days reading them and drawing connections that many didn't have time or wit to notice.
+
+The adventurers and heir exploring were a great source of new knowledge to feast upon, and when [[king.wiki|Atlas, son of Jeovah]] ordered them to stop Jahlad was unconsolable. He hadn't seen any bad outcomes at first, so he thought this was a needless rule, however, as things grew more heated, more problems showed up and he started thinking that the king may have been correct and [[rebels.wiki|Elmaer Rasian]] needed to be stopped. 
+
+However, with the start of actual conflict, Jahlad realized that there is no way one could just sit the 2 men down and talk this conflict out. At least, not while they had troops ready to defend them and supplies for said troops. So he (secretly) decided to take matters into his own hands, using his influence and charisma to lead a group of undercover agents to sabotage supplies from both sides. At the start of the adventure, however, his involvement is mmostly theorized.
+
+=== Unknown backstory ===
+
+Jahlad is in a search for all possible knowledge. He got all the captain's logs and reports from adventurer's, went over them, drew all connections he could, and tried to explain everything possible. He used to send his own servants after close-by explorations, to acquire more data, but they weren't always good at following directions. Undead creatures rarely are. This lead to at least one accident in Lossaf, when his servant misread the situation and destroyed a city attempting "self defense".
+
+Jahlad has been practicing necromancy for many years, mostly to expedite the manual things he needed to do, while he focused on the mental labor.
+
+After the mandate, Jahlad's explorations slowed down, as now he always needs to send skeletons, ghouls, and wraiths. But if those are seen, it will create undesirable reactions. Jahlad is currently attempting to study the past war, and the wreckage at the bottom of Fasumer (the sea that bathes Cynesel), to see what spells were used and what boats each side were using.
+
+The information he gets will lead him to explore Gestimbers, to see the origin of the myths, and how this impacted early civilizations. He will then move to studying Dethmer, but his undead may not board ships, so he won't be able to study why it is called Dethmer.
+
+== Final fight ==
+
+Jahlad will use the stat block of a Lich. He has cast Create Undead as a lv 8 spell, so controls 2 ghouls, and control undead, controlling 4 skeletons in hidden parts of the room, who'll mostly use ranged attacks.
+
+I might use the Death House as the base map for this
