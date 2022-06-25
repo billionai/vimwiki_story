@@ -1,0 +1,83 @@
+= The gravity of the waves =
+== A short story by B. Larsen ==
+
+=== A few not-so-regular days ===
+
+- There is just no way this is possible! - I stared at the report that Tozzi was holding up - You learned physics in school. Black holes can't change direction like that. They need to be influenced by some force that just isn't here.
+
+- Data doesn't lie, Victoria - Tozzi drops the report on my desk with a puzzled look - listen, we are checking the telescopes, don't worry. You are not going to be the next neutrinos-faster-than-light researcher. But I wouldn't pass up on the chance of getting ahead this amazing discovery, if it actually does turn out to be true - He says, moving towards the door - Let's grab a coffee in a week or two, once you parsed everything in the report.
+
+I sigh and sit down. The madness that Tozzi explained to me just can't be true, can it? Black holes can't just decide to move this way instead of that and non-continuously change direction. Yet, GWI90521 just did that. and what is worse, it is now coming this way! I wouldn't normally worry, millions of light years is quite the distance, but after Newton's second law was broken, what other laws I deem sacred will be destroyed this week?
+
+I sit down and start reading the report. It is basically the data behind Tozzi's mad assertion. GWI90521, the original fused black hole, changed it's path for no apparent reason, and is now heading roughly in the direction of earth. LIGO managed to detect gravitational waves and the doppler effect indicates it is coming roughly here. Calculating the paths of stars close to GWI, with all different telescopes, they seem to agree with LIGO's findings. Tozzi doesnt need to check his telescope again, unless they all failed the same way, but it won't hurt either.
+
+On my side, I need to simulate the data and the calculations and seeing if they fit. Along with my own personal spin, trying to derive a formula from the data alone. We need to confirm the observations fit the data of the moving black hole, and possibly we need a new hipothesis for gravity. A few weeks of work, a month or two of processing, and we should get results.
+
+As Tozzi promised, he came back with results before I lost too much time programming the simulation. All are correct, as I expected. There was something new, however. We have a better idea of where GWI is going: towards the Andromeda Galaxy. A lot closer to us, but not that scary, so there was no reason to fear anything coming from this other than updating gravity. After all, physics around black holes was always weird, this has to be another weird quirk of Einstein's equations.
+
+Another month goes by, and results from my simulation are back. My first thought is, obviously, to try the formula that my code has spit out with other (older) black hole data, to see if I found some new predictive thing, but this would also take a while, so it was my turn to call a meeting with Tozzi. 
+
+- It's a match! - I open the conversation - if we use the star data, we get a similar path to what you got, and conversely, from the black hole we get the same star path.
+
+- So... What software do you prefer to use when writing papers? - He asks, an excited smile showing in his face.
+ 
+This starts a small discussion on meeting frequencies, separating responsibilities and all that. 
+
+- This will be big, Tozzi says, I'm not gonna say 'Nobel', but I'm also not _not_ going to say it.
+
+And with this, I'm back to my computer to check the tests.
+
+=== the weekly unbelievable ===
+
+Unfortunately, by our first planned meeting, the tone completely changed. 
+
+- This is unique, in the worst possible way, I started explaining. No other black holes show any movement similar to what GWI showed. Nothing, nada, nichts! And with GWI leaving the galactic plane, we won't get more data if we can't find another black hole doing the same thing. - Tozzi's face, which already had a bit of a concerned look, turned into a half excited smile.
+
+- Yeah, about that... we might have some more data soon - he said, needlessly cryptically. 
+
+- Awesome! Which other black hole decided to have a mind of it's own?
+
+- None, answered Tozzi.
+
+- Then how are we going to get more data? GWI is not getting close to stars anytime soon.
+
+- Or so we thought - he completed my sentence for me - GWI arrived at Andromeda already.
+
+- No no no - I reply - you don't get to do this. We don't live in a science fantasy show, where the speed of light is an inconvenient suggestion at best.
+
+- I'm serious. Same mass, exact same path. Other than the massive distance, there is no way anyone would dispute this being the same thing.
+
+- But there is the distance problem. Hell, there are _time_ issues! There is no way we'd already know about this. Does it have a stupid high speed? Is there any way it could have crossed that distance by some weird quirk of black holes again?
+
+- No, actually. It has the same speed we had before. That is the worst part! The good news is that GWI showed up right by B023-G078 at the center of Andromeda, so we will have another merger. Who knows, maybe LIGO can corroborate our madness.
+
+- We are not putting the article on hold then?
+
+- I mean, we don't need definitive data to write the introduction and do basic literature review, do we?
+
+- Literature review? - An actual belly laugh takes over before I can control myself - No, I guess we don't need definitive data to review literature and say that there are no papers on black holes with a mind of their own which can cross millions of light-years of empty space in a month.
+
+- Yeah, see? Let's keep on writing. Did you have any good stuff to review today?
+
+- After this bombshell? Nothing relevant, but I did bring these.
+
+=== The next madness ===
+
+Tozzi's worried look spilled the beans before his mouth said anything.
+
+- What is it this time? No, let me guess, after breaking electromagnetism and gravity, your telescopes found floating quarks?
+
+- No, we're still only breaking Einstein's rules. LIGO corroborated that B023 has merged with another black hole, so our telescopes aren't broken.
+
+- Then - I take a deep breath - why do you have this look of "some other fundamental thing broke"?
+
+- Well, LIGO could tell the mass of the black hole more accurately than we could, with the amplitude of the gravitational wave.
+
+- And?
+
+- And they found that GWI never digested his original meal. With both data points we can see that GWI has not changed his mass with the previous "merger". It was more of a collision, except nothing remains of the original black hole there. All stars around it are free floating by now.
+
+- Right. So it wasn't the strong force, you broke conservation of mass! Why are you looking so wo... - Then it hit me. The black hole arrived, made the mass disappear by some unknown mechanism, then hopped to the center of our neighbor to do the same thing, freeing all stars from Andromeda, and scattering them through the universe and dooming them to eternal loneliness.
+
+At least in the current path, GWI has passed us by harmlessly and went for Andromeda. We're safe, if the path continues.
+GWI wouldn't change his mind again, right?
