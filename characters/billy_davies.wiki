@@ -1,0 +1,68 @@
+= Billy Davies =
+
+Concept: Tinkerer, body-modder and home automation geek
+Nature: Curious. Likes to poke things to understand how they work, with childlike wonder
+Demeanor: Mad Scientist. Doesn't seem to take consequences into consideration when testing, mostly in himself.
+Essence: Dynamic. His can't just see a new thing happen and allow him to not do anything.
+
+Affiliation: The council of Nine
+Chronicle: Sins of the Fathers
+Sect: Virtual Adept
+
+== Signs ==
+
+Pulls:
+* Mind: Air.   He likes to understand how things work mechanically, he loves creating complex projects, and is often unable to stop the feature creep.
+* Mouth: Fire. Talk first, think second, he is often heated with words, but he isn't good with drawn-out interactions.
+* Eyes: Earth. Other people seem to attached to the way of things. Explore the new, give a chance to the different. Learn something!
+
+Interactions:
+* Mouth to mind (+): He will usually get a project in his mind and attempt to rush it being finished in a day or two, then needs some rest time and by then the new shiny is already very appealing.
+* Eye to mind   (-): He often likes innovation for innovation's sake, always disconting the old ways as "Obsolete" without proper reasoning for it
+* Mind to eye   (+): He might give the benefit of the doubt, sometimes, because people might be expecting too much of them.
+* Mouth to eye  (-): He often attributes the loyalty to tradition as a lazyness on fighting for change, or some win that they already have from the current status.
+* Eye to mouth  (+): If appeals to reason or "new and shiny" are not effective, he might appeal to the beauty of the solution, or how bad it will look if it isn't done.
+* Mind to mouth (-): He will often discount emotion when talking, not minding how people might feel about a plan.
+
+== Backstory ==
+
+=== pre Awakening ===
+
+I was called to California by the computer revolution. working there for a long time, I learned a great deal of system administration. Therefore, when the mass exodus to New Orleans happened in 2005, I knew this could be my chance to make or break it. After a year, with all new companies open, all my chips were put in the new sillicon space, and B.I.T consulting (Billy's Information Technology consulting) started in 2007.
+
+We were decently sucessful. By 2018 I had managed to grab a few clients who mostly didn't realize I had automated most of my job, and had grown my company to a couple of employees. Not explosively, but a sales person, a lawyer, an accountant and an HR rep greatly helped me out. This left me with more time to tinker in the job, and setting home automation in my own company. Scritping automated responses to my clients, I often had upwards of 6 hours of free time for personal projects. But everything changed with the damned pandemic.
+
+By then, so many companies reached out to me that I couldn't handle the difficult part of the process - setting up the ticketing sistem and adding new clauses to my automation - all by myself. I couldn't really be in 2 places at once, could I? So I found myself in need of a new hire. Luck struck once again, as I hired an experienced technician who could handle all the setups with a speed that I would never see coming, while I setup my automation to handle it. My plan was that, once this flurry of activity died down, I would fire poor Ralph and be back at handling everything myself, but he ended up making himself... indispensable.
+
+=== Awakening ===
+
+One day, as I was getting ready to leave, I noticed that Ralph was still in the building. This caught me off-guard, as today was a field-trip day, he had no reason to come back to the office, but upon seeing me, his eyes lit up. He approached me and started talking about some new technology or something,   <insert here the talk that makes me Awaken>.
+
+This changes everything.
+
+=== Post Awakening ===
+
+I mean, how could it not? Reality? Just Data? Isn't that just peachy? I need to know more. And so I start trying to learn more. Some weird hack got me the code to look into the code, and bash being bash, the vulnerability was jsut begging to be exploited! And doing that through HAL, my phone's personal assistant, just made everything all the more convenient.
+
+Ralph ended up giving me a li-dar drone, and Wall-C has not left my side ever since. I also got some nifty little ear buds, that let me hear a pin drop around a mile away, if I just try hard enough. Next project: HALv2, with an actual brain behind it, not just some basic NLP algorithms tied to "alexa skills" or whatever. GPT-3 has NOTHING on the power of the reality servers. They can predict what I'll need and pre-pack them for me with the help of Wall-C.
+
+
+== Focus ==
+
+Paradigm: Everything is code
+Practices:
+* Writing Shell scripts and using hex editors.
+* Drinking caffeinated hot drinks (Mostly coffee) to meditate.
+* Brainstorms out loud to the rubber_duck.sk function of HAL.
+Instruments: 
+* Cellphone: Front end to interacting with his virtual assistant, HAL.
+* Home server: Accessible through HAL or a phone app, this is where Billy stores his reality altering code.
+* Wall-C: Li-dar equipped drone, capable of carrying some objects and outfitted with spekaers and mirrors (used for [Forces+Connections]-based magicks)
+* Bio-mod implants: Billy has magnets implanted in his fingers, and an RFID in his hands. (Used for Forces-based magicks)
+* AR glasses (i.e google glass): Outfitted with AI to enhance his senses. (Used for Connections-1-based magicks).
+* RFID reader/writer: powered by USB, and quite handy for hacking and change data on computers (Used for data-based magicks).
+* Espresso machine: Used for medidating on problems.
+
+== Rotes ==
+
+* Shield implants: His magnets and RFID are not detected by metal detectors. Happens every time he needs to go to a bank or high security building. Forces 2, I imagine
