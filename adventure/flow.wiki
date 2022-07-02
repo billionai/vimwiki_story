@@ -1,0 +1,65 @@
+= Civil War =
+
+This is an adventure campaign made for D&D 5e. It has been designed around having exactly 3 players, one to oppose each of the three factions. It is possible, though less satisfying, to have 2 players and choose a third faction to be the winner, or more players. Having mmore than 4 players is discouraged, as the amount of legendary items and character arcs will make the game extremely unbalanced.
+
+== Background ==
+
+Adventurers aren't regular people, they are super rare and super powerful. They decided to explore the world, but doing so has unleashed many monsters and endangered the peasants. Because of this, the King has ordered all adventurers to stop exploring and focus on fixing the current problems. A faction, led by Elmaer Rasian, has stood against the unfair orders of the king as no one had been hurt by monsters before he started this conflict. An unknown third party joined the fight in a sneaky manner, attempting to remove resources from both parties to stop the fight without bloodshed.
+
+Players are free to choose any faction to align themselves with, or start their own faction if they feel that all current ones are awful.
+
+=== Preparation ===
+
+When preparing to run this campaign, it is important to weave player's backstories into the narrative. To do so, each player should provide you with the following:
+1. A mistery: Something about the player's backstory should be misterious, such as what happened to their parents or why some traumatic thing has happened.
+2. A favored enemy: Hopefully related to the mistery, some type of enemy that will trigger a visceral reaction on the player. Should be unique per player
+3. An item that represents their desires: Some type of capstone for their character development. This should be an item of legend
+
+Armed with this, you should decide which faction will ally with which supernatural enemy. Each faction should ally to a favored enemy of a certain player, preferrably the faction that would align best with their morals for additional knife twisting.
+
+To symbolize their progress, they should all start with their desired legendary item, but in either a discreet or unresponsive way.
+Then, map out a basic character arc. This is basically 3 sub-adventures, all focused on facing the favored enemy in some fashion, and always giving some extra information about the player mistery. As a reward for each sub-adventure, allow the players to get a bit closer to their desired item.
+
+As for the factions, most of the dirt on any faction will come from the hypocrisy of allying with some sort of monster. These should be spread about with the collection of territory, and as they get closer, they should find more and more definitive proof that their faction is not, in fact, a nice one.
+
+== Sky-high campaign flow ==
+
+The flow should flip back and forth between the character arcs and territorial capture. This is why two finish the second gated part of territorial capture, all players must have the first level of legendary item, and conversely, to get the second level of legendary item, all players must have level up at least twice.
+
+Since each arc is too character-specific, they won't be added here. So let's look at the faciton war
+
+=== Dragoons ===
+
+This faction is led by [[king.wiki|The King]], and they are allied to the monsters <insert monster here>.
+
+They start with the following territories, which should be captured in this order:
+1. Fish Market - Despite the name, this is also used to smuggle magic items
+2. Food Market - Main supply of food of the army
+3. Training Grounds - Where new recruits are trained
+4. Martial Market - Main source of supplies for the army
+5. Official Prison - Where the enemy prisioners are kept
+6. Castle - The headquarters of the army, and where the final boss fight happens.
+
+=== Elmaer's ===
+
+This faction is led by [[rebels.wiki|Elmaer Rasian]], and they are allied to the monsters <insert monster here>.
+
+They start with the following territories, which should be captured in this order:
+1. Bazar - Supply of magic items for the rebel army
+2. Food Market - Main supply of food for the army
+3. Central Plaza - Source of moral and new recruits
+4. Guard Barracks - where the weapons of the army is stored
+5. Trading Port - Main form of access for the HQ.
+6. Rebel HQ - In a hidden island, this is where they kept prisioners and where the final fight happens.
+
+=== Neutrals ===
+
+This faction is led by [[neutral.wiki|Fahrat Jahlad]], and they are allied to the monsters <insert monster here>.
+
+They start with the following territories, which should be captured in this order:
+1. Magic Market - main source of magic items
+2. Religious Center - Main source of food for the region
+3. Sorcerers Mannors - Main source of recruits and money
+4. Wizard Suburbs - Where a lot of information of the neutral faction is saved, and the allies are hidden
+5. Magic School - The huge campus is where many prisioners are hidden
+6. Cemitery - Right beside the Jahlad Mansion, this is the HQ of the neutrals and where the final fight happens.
