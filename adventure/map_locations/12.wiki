@@ -1,14 +1,49 @@
-= NAME =
+= Bazar =
 [[../flow.wiki|back to index]]
 
-Original faction:
-Current Faction:
+Original faction: Elmar's Freedom Fighters
+Current Faction: Elmaer's Freedom Fighters
 
 == Lore/Geography ==
 
-Bonus:
-Neighbours
+Bonus: Can supply some magic items related to summoned demons.
+
+This is where some exploring adventurers drop off their loot to be redistributed to other freedom fighters.
+
+Neighbours:
+* [[5.wiki|Castle]]
+* [[6.wiki|Prison]]
+* [[10.wiki|Central Plaza]]
+* [[13.wiki|Trading Port]]
+* [[15.wiki|Religious Center]]
+
+Dirt: Players should start thinking about the lies that the king is spreading.
+
+=== Random Encounters ===
+
+One of the possible ranodm encounters is a mob asking for the adventurers to deal with the Warlock problems.
 
 == Quest ==
 
+This bazar is very noisy, with many civilians looking to buy amulets of protection from demons and other threats. People talk about how the police is warning them against going out at night, telling them to spread salt around the house, and spread charged crystals around the corners of the house.
 
+Loot: While many of the things that civilians ask are useless, there are a few useful things
+* Scroll of Banishment.
+* 2x potion of fire resistance
+* 2x scrolls of zone of truth
+* Papers detailing some lies that the king's truth police has spread, such as the protective crystals, and how them working must mean the king is behind the demons
+
+Some ideas on how different factions might take this district are:
+
+=== Jahlad's Ghosts ===
+
+Ghosts might start working with the current rumors, but ask why have the freedom fighters haven't stopped the demons either. If the point of the war is that they are able to protect the citizens, why are they so focused on fighting other adventurers instead of saving the people?
+
+They might rally a crowd this way, which would lure out Freedom fighters and cause enough commotion to stealth into the district base, to find documents on the king's secret police and the loot
+
+=== Dungeon Dragoons ===
+
+Dragoons would be less indirect in searching for the freedom fighters. They would probably call attention to themselves, and trigger a fight in the streets if carelessly walking around
+If they manage to avoid detection or win the fight, they will gather the attention of the crowd, where an inspiring speech ay swing people to their side.
+
+They can fight or lead a mob to the base, where they'll find the papers on the secret police, along with the loot.

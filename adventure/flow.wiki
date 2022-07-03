@@ -37,29 +37,29 @@ They start with the following territories, which should be captured in this orde
 2. [[map_locations/2.wiki|Food Market]] - Main supply of food of the army
 3. [[map_locations/3.wiki|Training Grounds]] - Where new recruits are trained
 4. [[map_locations/4.wiki|Martial Market]] - Main source of supplies for the army
-5. [[map_locations/5.wiki|Official Prison]] - Where the enemy prisioners are kept
-6. [[map_locations/6.wiki|Castle]] - The headquarters of the army, and where the final boss fight happens.
+5. [[map_locations/6.wiki|Official Prison]] - Where the enemy prisioners are kept
+6. [[map_locations/5.wiki|Castle]] - The headquarters of the army, and where the final boss fight happens.
 
 === Elmaer's ===
 
 This faction is led by [[rebels.wiki|Elmaer Rasian]], and they are allied to the monsters <insert monster here>.
 
 They start with the following territories, which should be captured in this order:
-1. [[map_locations/7.wiki|Bazar]] - Supply of magic items for the rebel army
-2. [[map_locations/8.wiki|Food Market]] - Main supply of food for the army
-3. [[map_locations/9.wiki|Central Plaza]] - Source of moral and new recruits
-4. [[map_locations/10.wiki|Guard Barracks]] - where the weapons of the army is stored
-5. [[map_locations/11.wiki|Trading Port]] - Main form of access for the HQ.
-6. [[map_locations/12.wiki|Rebel HQ]] - In a hidden island, this is where they kept prisioners and where the final fight happens.
+1. [[map_locations/12.wiki|Bazar]] - Supply of magic items for the rebel army
+2. [[map_locations/17.wiki|Food Market]] - Main supply of food for the army
+3. [[map_locations/10.wiki|Central Plaza]] - Source of moral and new recruits
+4. [[map_locations/16.wiki|Guard Barracks]] - where the weapons of the army is stored
+5. [[map_locations/13.wiki|Trading Port]] - Main form of access for the HQ.
+6. [[map_locations/18.wiki|Rebel HQ]] - In a hidden island, this is where they kept prisioners and where the final fight happens.
 
 === Neutrals ===
 
 This faction is led by [[neutral.wiki|Fahrat Jahlad]], and they are allied to the monsters <insert monster here>.
 
 They start with the following territories, which should be captured in this order:
-1. [[map_locations/13.wiki|Magic Market]] - main source of magic items
-2. [[map_locations/14.wiki|Religious Center]] - Main source of food for the region
-3. [[map_locations/15.wiki|Sorcerers Mannors]] - Main source of recruits and money
-4. [[map_locations/16.wiki|Wizard Suburbs]] - Where a lot of information of the neutral faction is saved, and the allies are hidden
-5. [[map_locations/17.wiki|Magic School]] - The huge campus is where many prisioners are hidden
-6. [[map_locations/18.wiki|Cemitery]] - Right beside the Jahlad Mansion, this is the HQ of the neutrals and where the final fight happens.
+1. [[map_locations/8.wiki|Magic Market]] - main source of magic items
+2. [[map_locations/9.wiki|Sorcerers Mannors]] - Main source of recruits and money
+3. [[map_locations/15.wiki|Religious Center]] - Main source of food for the region
+4. [[map_locations/7.wiki|Wizard Suburbs]] - Where a lot of information of the neutral faction is saved, and the allies are hidden
+5. [[map_locations/11.wiki|Magic School]] - The huge campus is where many prisioners are hidden
+6. [[map_locations/14.wiki|Cemitery]] - Right beside the Jahlad Mansion, this is the HQ of the neutrals and where the final fight happens.

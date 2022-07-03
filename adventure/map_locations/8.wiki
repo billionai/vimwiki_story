@@ -1,14 +1,30 @@
-= NAME =
+= Magical Market =
 [[../flow.wiki|back to index]]
 
-Original faction:
-Current Faction:
+Original faction: Jahlad's Ghosts
+Current Faction: Jahlad's Ghosts
 
 == Lore/Geography ==
 
-Bonus:
-Neighbours
+Bonus: Easier access to spell components and minor magic items
+
+This part of the city is full of magical students, and it is where they usually buy components for their studies, as well as make some money on the side making easy projects like simple scrolls and potions. It has become more dangerous though, as many robberies ending in murder have been happening.
+
+Neighbours:
+* [[3.wiki|Training Grounds]]
+* [[7.wiki|Wizard suburbs]]
+* [[9.wiki|Sorcerers Mannors]]
+* [[11.wiki|Magic School]]
+
+Dirt: This district should raise questions about Elmaer's allies, as some scrying students have seen giants moving out of their hills.
 
 == Quest ==
 
+Because this area is no longer safe, civilians will be happy to see either army, and ask for help about the dangers of the night.
+This is mostly a linear quest overtaking a small bandit hideout, with them mostly using necromantic magic.
 
+As thanks, students will pool resources to make the following items:
+* 6x healing potions
+* 2x scrolls of shield
+* Potion of hill giant strengh
+You may also hear them talking about the problematic allies of the rebels

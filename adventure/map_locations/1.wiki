@@ -25,7 +25,6 @@ Loot: Players will find some loot specific to dealing with undeads, along with o
 1. Scroll of turn undead
 2. 2x Scroll of protection from evil
 3. 2x flask of holy water
-4. 3x potions of healing.
 
 Some ideas on how each faction would go about conquering this district:
 
