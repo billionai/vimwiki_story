@@ -1,0 +1,43 @@
+= Fish Market =
+[[../flow.wiki|back to index]]
+
+Original faction: Dungeon Dragoons
+Current Faction: Dungeon Dragoons
+
+== Lore/Geography ==
+
+Bonus: The controlling faction can buy some magical items.
+
+This market is fueled by "ghost" adventurers who smuggle the found magical items into the king's side. Motivated mostly by profit, they have no real worries about who wins the war.
+
+Neighbours:
+* [[2.wiki|Food Market]]
+* [[4.wiki|Martial Market]]
+* [[6.wiki|Prison]]
+
+Dirt: this tile will make people start questioning the motivation and especially allies of the Ghosts.
+
+== Quest ==
+
+The general idea of this quest is to find the smuggling den, confront the smuggler (Spectre) - possibly confront the 3 Dragoons buying items there - and get doubts on the Ghosts.
+
+Loot: Players will find some loot specific to dealing with undeads, along with one or two generally useful consumables:
+1. Scroll of turn undead
+2. 2x Scroll of protection from evil
+3. 2x flask of holy water
+4. 3x potions of healing.
+
+Some ideas on how each faction would go about conquering this district:
+
+=== Jahlad's Ghosts ===
+
+When players find the smuggler's spot, they'll need to find a way to remove the current buyers (Dragoons), confront Spectre - maybe kill him - and leave. However, after confronting Spectre, they will notice the loot, which is marked as "self protection".
+If Spectre has the chance, he will splash holy water on the players, or use a scroll of protection from undead
+
+They should, then, setup some traps and report back to Jahlad so he can set the correct rumors going around. If the players take the loot to Jahlad, he'll ask them to be rid of that, spectre was just a superticious man.
+
+=== Elmaer's Freedom fighters ===
+
+Freedom fighters will probably not mind having a fight with the dungeon dragoons, and if they do this, Spectre will retreat to his backroom until sounds of a fight die down.
+Upon hearing an end to the fight, he will open a window of his safe room, and if the players win, he'll ask for a second as he casts a spell of protection from undead on the door, then open the door and ask the players inside. If the players question, he says he can't be too careful.
+After this, he says he is fine selling stuff to Elmaer instead of the King, he just has a personal vendetta against Jahlad and will offer some loot as a token of good will.
