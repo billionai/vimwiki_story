@@ -1,0 +1,11 @@
+= Ethereal Shard =
+
+Wondrous item, Very Rare
+
+This translucent crystal was polished to the point of being usable as a lens. It can fit into the lost half of the [[crows_mask.wiki|Mask of the Crow]], and s already located there. It can be removed from it by using an action, and reset later using another action.
+
+It has the following magical properties:
+* It can be used as a spellcasting focus for warlocks
+* When looking through it, the person is able to see into the ethereal plane to a maximum distance of 60ft. These images appear as translucent and in shades of blue
+* When expending a warlock spell slot, you may move through the ethereal plane up to 30ft to a place you can see. You must end your turn at the material plane.
+* Once per day, you may use the command word as a bonus action and see through solid objects for the duration of 1 minute.

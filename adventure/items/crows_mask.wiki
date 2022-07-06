@@ -1,0 +1,46 @@
+= the Mask of the Crow =
+
+Wondrous item, Artifact (requires attunement)
+
+An artistic mask that seems to resemble some bird, quite possibly a crow or a raven, this can be used to focus magical powers of the great beyond-plane, where unthinkable power lies.
+
+This item levels up along with the posessing player, as they acquire more parts of it.
+
+== Unresponsive ==
+
+This functions just like a stylized magical focus, that the warlock may use without needing their hands.
+
+It is only half of the mask, with a hole for the eye which looks like it could hold some lens.
+
+== Dormant ==
+
+When the warlock finds the [[dark_crystal_visor.wiki|Dark Crystal Visor]], a dark crystal that fits perfectly inside the eye hole of the half mask, the item will become dormant, which means it will start to show its magical properties
+
+When dormant, this item boosts the warlock's power, giving it a +1 to spell attack rolls and saving throw DCs cast through the mask, along with the powers of the visor
+
+=== Visor ===
+
+When looking through the crystal you can see clearly inside 60ft of regular darkness or 30ft of magical darkness, however you can't see in lit-up places.
+
+Once per long rest, you may use an action to attempt to cast a warlock cantrip you don't know. To do so, roll a DC 10 Intelligence(Arcana) check. Upon a failure, the casting fails and the action is wasted.
+
+== Awakening ==
+
+When the warlock takes posession of the [[necklace_of_secrets.wiki|necklace of the brotherhood of secrets]], it will ressonate with the mask's magic, awakening it slightly and showing some more of its power.
+
+In this state, along with the powers of the necklace and the visor, your mask gives you a +2 to spell attack rolls and saving throw DCs, and lets you use an action to regain a warlock spell once per long rest.
+
+=== Necklace ===
+
+People attempting to magically hide themselves, be it through invisibility or illusions, have a bright aura around their general shape. Additionally, you automatically detect illusions.
+
+== Complete ==
+
+When the warlock obtains the second half of the mask, imbued with the [[ethereal_shard.wiki|Ethereal Shard]], this item is in its complete form.
+
+In this form, it functions as a +3 rod of the Pact Keeper, along with the bonuses of the Visor, Necklace and the Shard.
+
+=== Shard ===
+
+When using a warlock spell, the warlock may choose to move up to 30ft in the ethereal plane, and appear to teleport to another spot.
+Additionally, they may see into the ethereal plane as a translucent image over the material plane and once per long rest, they may use a bonus action to see through solid matter for 1 minute

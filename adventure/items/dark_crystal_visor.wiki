@@ -1,0 +1,9 @@
+= Dark Crystal lens =
+
+Wondrous Item, uncommon
+
+This crystal was polished to the point of looking like the lens of a goggle. It can be fit into the [[crows_mask.wiki|Mask of the Crow]] to power it up, or used individually. If it is used individually, the warlock may use it as a spellcasting focus.
+
+When looking through this lens, the user may see through 60ft of regular darkness as if it were bright, and through 30ft of magical darkness without discerning color. However, the user can't see in regular daylight through this crystal, it appears as magical darkness.
+
+Additionally, the user may use an action to attempt to cast a warlock cantrip they do not know. To do so, they must pass a DC 10 Charisma(Arcana) check. If they succeed, the casting is completed using that action - regardless of the casting time of the cantrip. If they fail, the action is wasted. Regardless of success, this property can't be used again until the warlock finishes a long rest.
