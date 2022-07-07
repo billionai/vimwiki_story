@@ -1,0 +1,40 @@
+= Hammer of Thunderbolts =
+
+Weapon (warhammer), Legendary, 2d6 bludgeoning damage - Heavy, Special
+
+This Warhammer has the head of a 2 handed maul, but the cable only fits a single hand comfortably. It is clearly a very old weapon, with many marks of heavy usage along the head, but as reliable as ever.
+
+The head is adorned with cloud motifs at the top, and lightning streaking down the sides.
+
+== Unresponsive ==
+
+This weapon is very heavy, even for a 2 handed weapon.
+Special: Anyone not from the Rowan clan who attempts to use this weapon has disadvantage on all attacks made with it.
+
+== Dormant ==
+
+The weapon seems to have a will of its own, and actively seeks out opponents. Mechanically, it is a +1 weapon
+
+== Awakening ==
+
+The hammer of thunderbotls reaches this state when the wielder is in posession of the [[items/gauntlet_lightning.wiki|Gauntlets of Lightining Control]].
+
+At this point the weapon has +2 bonus to hit and damage, and the weapon acquires 2 new properties:
+* Thrown (30/60ft): When using this weapon, you may choose to use it for a ranged attack instead of a melee one. When doing so, use your strengh to calculate hit and damage.
+* Returning: Right after making a ranged attack with the weapon, it flies back to the wielder's hand, harmlessly.
+
+The weapon is also now attunable, and gets 3 charges. When attuned to it, you may expend one charge when a ranged attack connects, to create a thunderclap. All creatures within 20ft must make a constitution saving throw based on your spell save DC or be stunned until the end of the next round. All charrges are regained at dawn.
+
+=== Gauntlets === 
+
+Wearer strengh is 19+, and once per day the hammer deals 1d6 lightning damage too.
+
+== Complete ==
+
+When wearing the [[items/belt_giant.wiki|Belt of Giant's Bane]], the weapon has a +3 bonus to hit and damage, and gains another special property:
+
+Your strengh score increases by 4 points. This bonus can make it go bigget than 20, but not bigger than 30.
+
+=== Belt ===
+
+One extra 1st level spell slot for lilghtning or thunder damage only.

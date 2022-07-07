@@ -1,0 +1,8 @@
+= Gauntlets of Lightning Control =
+
+Wondrous Item, Rare (Requires Attunement)
+
+This pair of stringing blue gauntlets have a lightning motif to them.
+
+Even without attunement, when wearing these gauntlets, the wearer can use the first special property of the [[hammer_thunderbolts.wiki|Hammer of Thunderbolts]]
+When attuned to the Gauntlets, if your strengh score is lower than 19, it is set to 19. You may also activate these gauntlets and make the Hammer of Thunderbolts deal an additional 1d6 of lightning damage, once used, these property can only be used again after the next dawn.

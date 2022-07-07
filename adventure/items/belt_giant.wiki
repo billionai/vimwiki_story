@@ -1,0 +1,8 @@
+= Belt of Giants Bane =
+
+Wondrous Item, Rare
+
+This belt is made out of leather that looks as though has been hit by lightning, with streaks of burned leather sprawling from the buckle, made out of a single sapphire.
+
+Just by wearing this belt, the wearer is able to use the second set of proerties of the [[hammer_thunderbolts.wiki|Hammer Of Thunderbolts]].
+Additionally, once per day, the wearer may cast a 1st level spell that deals thunder or lightning damage without using the spell slot. This ability recharges at dawn.
