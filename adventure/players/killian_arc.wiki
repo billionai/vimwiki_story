@@ -1,0 +1,60 @@
+= Killian de Rowan =
+
+Player: Van Loon
+Class: Fighter (Eldritch Knight)
+Final Item: [[items/hammer_thunderbolts.wiki|Hammer Of Thunderbolts]]
+Auxiliary items:
+* Lv 1: Regular +1 Hammer
+* Lv 2: [[items/gauntlet_lightning.wiki|Gauntlets of Lightining Control]]
+* Lv 3: [[items/belt_giant.wiki|Belt of Giant's Bane]]
+
+NPC relations:
+* Arielle de Rowan - Mother, close-ish
+* Madock de Rowan - Older Brother, kinda far
+* Trina de Rowan - Younger Sister, pretty close
+* Sergei de Rowan - Dead, unknown reason, possible mystery
+* Ulfred de Rowan - far off relative, old mentor current rival, possible mystery
+* Roy Gehilden - Another scout for Royal guardsmen
+* Lyle ??? - Former love interest, Currently aligned with the rebels
+
+== Backstory ==
+
+Rowan Guild - 
+The lore of the guild says that they are an offshot of Gehilden (the fighters guild) specifically developed for fighting. They train giant specific fight tactics and it is said that they have artifacts specially developed for it, but people outside of the guild have never seen it.
+The reason given for specifically fighting Giants is that they require a lot of food and would often raid the food supplies of the human villages, and cause many deaths by starvation.
+
+Sergei de Rowan - 
+20 years ago, Sergei was sent for an unknown Rowan's guild mission, which resulted in his unfortunate death. The results were so complex that the body was never returned though the death was confirmed by the King himself.
+
+Ulfred de Rowan -
+Some months before the Civil war broke out, Ulfred was separated from Killian. Being one of the best Royal Guards, the King decided that Ulfred was to be part of the same group as Elmaer, in the hopes of controlling him. He asked the king for a scout that he trusted, and took Roy Gehilden with him, explaining to Killian that some Rowans must remain by the king's side, just in case the worst came to pass to Ulfred.
+
+=== Explanations ===
+
+Rowan's guild -
+The king was Leode back then, not Solus like right now. He was the god who created the giants as well as humans, and he used to be the king of both species. Until the Giants discovered his secret - that he is an actual God who is attempting to steer both races for something. When they demanded explanations of his plan, Leode declared that they would regret this. (in an ironic way, they found out what he wanted).
+Leode spread fake rumors of how the giants were killing humans due to starvation, and the village that used to have the greatest friendship with giants turned into the central fighting spot, and they kept the picture of the peaceful times (humans, giants and roses) to remind them of why giants can't be trusted.
+
+Sergei de Rowan - 
+This could be considered the start of the whole civil war. Sergei and Elmaer were exploring the inner part of the country - far inside Giant territory. While exploring, they got into an accident and were almost killed. Sergei was out cold when the giants saved them and didn't see it. In the end, Elmaer made good friends with the giants, and wanted to have a peace treaty, but as soon as Sergei woke up, he disagreed with the whole idea, being sure that a peace with giants would never work.
+He went beserk in the Giants that were caring for him, and the ones that were officiating the peace treaty. He was, as would be expected, killed in the action, and the Giants demanded to keep his body as reparations.
+When Elmaer returned to the king with a peace treaty, the king spit in it, and everything devolved into the now infamous civil war.
+
+Ulfred de Rowan & Roy Gehilden - 
+When they went together with Elmaer, he had a plan. They went into giant country once again, where Elmaer laid out the warmongering king problem, and Ulfred and Roy were convinced. They decided to follow him and try to de-throne Atlas.
+
+== Plot Points ==
+
+At the start of the game, there are 3 main misteries:
+1. Why did Ulfred and Roy change sides?
+2. What happened to the father?
+3. Why is the Rowan's guild?
+
+=== Point 1: Prison Break ===
+This gives the player some idea of mystery 1, but not the full answer
+
+=== Point 2: Into the Giants territory ===
+This will answer mystery 2 and give some insight on mystery 3
+
+=== Point 3: The puppet Master ===
+This will give definitive answers to mysteries 1 and 3.
